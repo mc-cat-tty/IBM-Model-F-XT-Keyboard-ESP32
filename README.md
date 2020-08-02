@@ -13,7 +13,7 @@ This project aims to bring back to life the old but well-designed and ultra-dura
 
 ## Project Status
 
-![License](https://img.shields.io/badge/license-MIT-brightgreen) ![build](https://img.shields.io/badge/build-passed-brightgreen) ![Version](https://img.shields.io/badge/version-2.0.0-blue)
+![License](https://img.shields.io/badge/license-MIT-brightgreen) ![build](https://img.shields.io/badge/build-passed-brightgreen) ![Version](https://img.shields.io/badge/version-1.0.0-blue)
 
 ## Recognize Your Keyboard
 IBM Model F and Model M are very similar, but the internal circuitry is different. Furthermore, keyboards made during 80s used to implement two different protocols: XT and AT protocol.
