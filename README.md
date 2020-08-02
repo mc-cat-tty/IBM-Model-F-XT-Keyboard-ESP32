@@ -35,11 +35,10 @@ IBM Model F and Model M are very similar, but the internal circuitry is differen
 
 ## More Informations
 To learn more about XT protocol and Teensy solution see:
--
--
--
--
--
+ - http://www.ccgcpu.com/2019/02/14/the-xt-part-4-adapting-a-modernish-keyboard/
+ - https://deskthority.net/wiki/IBM_Model_F
+ - https://github.com/tmk/tmk_keyboard/wiki/IBM-PC-XT-Keyboard-Protocol
+ - https://deskthority.net/viewtopic.php?t=12597
 
 ## Authors
 
