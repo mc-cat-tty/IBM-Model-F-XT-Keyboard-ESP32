@@ -31,7 +31,7 @@ IBM Model F and Model M are very similar, but the internal circuitry is differen
 2. Upload the sketch using the Arduino IDE and the ESP32 plug-in
 3. Plug ESP32. It needs power.
 4. Connect to the ESP32 BLE interface (from your Bluetooth settings). This microcontroller is not able to simulate an HID device through USB interface, but it supports BLE HID. For a more neat solution see Teensy devices.
-5. [optional] You can always change the keys mapping by modifying the translationTable array.
+5. [optional] You can always change the keys mapping by modifying the translationTable array. Already mapped layout: italian.
 
 ## More Informations
 To learn more about XT protocol and Teensy solution see:
